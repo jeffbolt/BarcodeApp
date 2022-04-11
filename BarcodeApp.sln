@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeApp", "BarcodeApp\BarcodeApp.csproj", "{E174E7CF-1AF8-442A-AADE-A519AE4DF899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeApp.Tests", "BarcodeApp.Tests\BarcodeApp.Tests.csproj", "{2AA1F393-4C3B-4A05-B391-A45A47BF692A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E174E7CF-1AF8-442A-AADE-A519AE4DF899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E174E7CF-1AF8-442A-AADE-A519AE4DF899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E174E7CF-1AF8-442A-AADE-A519AE4DF899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E174E7CF-1AF8-442A-AADE-A519AE4DF899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA1F393-4C3B-4A05-B391-A45A47BF692A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA1F393-4C3B-4A05-B391-A45A47BF692A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA1F393-4C3B-4A05-B391-A45A47BF692A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA1F393-4C3B-4A05-B391-A45A47BF692A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201C630D-A364-4016-8EC0-26716B70C034}
+	EndGlobalSection
+EndGlobal
