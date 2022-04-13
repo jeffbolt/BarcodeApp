@@ -46,3 +46,12 @@ textarea {
 .clear-both {
 	clear: both;
 }
+
+.tile {
+	float: left;
+	width: 425px;
+}
+
+.min-width-100 {
+	min-width: 100px;
+}
